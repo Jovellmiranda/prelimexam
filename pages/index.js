@@ -24,7 +24,7 @@ This subject is new to me because it is my first time taking the subject and som
 
 
 
-<p>10 Things that require Zero talent</p>
+<p>10 Things that require 0 talent:</p>
         <ol>
           <li>Being On Time</li>
           <li>Making An Effort</li>
